@@ -50,4 +50,8 @@ public class Test1 extends TestBase{
 
 
     }
+    @Test
+    public void demotest1(){
+        System.out.println("Hello world");
+    }
 }
