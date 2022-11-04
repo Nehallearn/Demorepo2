@@ -9,6 +9,7 @@
                     <include name="logineTest"/>
                     <include name="homePageMenuTest"/>
                     <include name="logoutTest"/>
+                    <include name="demotest1"/>
                 </methods>
             </class>
         </classes>
