@@ -52,6 +52,6 @@ public class Test1 extends TestBase{
     }
     @Test
     public void demotest1(){
-        System.out.println("Hello world_updated");
+        System.out.println("Hello world_updated second time");
     }
 }
